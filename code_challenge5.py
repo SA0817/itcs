@@ -1,0 +1,1 @@
+pre = eval(input("Input your grade in Prelim: "))
