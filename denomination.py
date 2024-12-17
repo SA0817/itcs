@@ -1,3 +1,5 @@
+# arithmetic operators
+
 name = input ("Enter your name: ")
 amount = eval(input("Enter the amount to deposit: "))
 
