@@ -17,4 +17,6 @@ print(fruits)
 fruits.remove('banana')
 print(fruits)
 
+fruit.remove('guyabano')
+
 
